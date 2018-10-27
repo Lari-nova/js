@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    font-family: Chocogirl;
+    color: #fff;
+}
+
+body {
+    background-color: black;
+}
+
+h3{
+    background: #802417;
+    color: #fff;
+    padding: 10px 0 10px 10px;
+    margin-bottom: 3px;
+    text-align: left;
+    cursor: pointer;
+    font-family: Chocogirl;
+}
+
+div {
+    color: #fff;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.accord-content { display: none; }
+
